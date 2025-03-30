@@ -1,0 +1,10 @@
+📁 training/ – Training Data (60%)
+This folder contains 60% of the total dataset, specifically used for training the machine learning model. It includes:
+
+panel_and_weather_train.csv → Training dataset for solar panel output and weather conditions.
+
+irradiance_train.csv → Training dataset for solar irradiance levels.
+
+💡 Purpose:
+◦The data in this folder is used to train the model to identify patterns and relationships between solar irradiance, panel output, and weather conditions. 
+◦This step is crucial for improving the model’s prediction accuracy and ensuring reliable energy forecasting.
